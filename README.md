@@ -1,7 +1,7 @@
 <!-- title for my profile to welcome -->
 <h1 align="center">
 	<a href="https://sunguoqi.com/">
-		<img src="https://readme-typing-svg.herokuapp.com/?lines=prinf(%22welcome%2C%20to visit!%22);欢迎来到我的GITHUB!&center=true&size=27">
+		<img src="https://readme-typing-svg.herokuapp.com/?lines=prinf(%22welcome%2C%20visit!%22);欢迎来到我的GITHUB!&center=true&size=27">
 	</a>
 </h1>
 
