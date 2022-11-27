@@ -2,7 +2,11 @@
 
 
 <div align="center">
-	<img  src="https://visitor-badge.glitch.me/badge?page_id=sun0225SUN" />
+	<img  src="https://visitor-badge.glitch.me/badge?page_id=Shiresamash" />
+</div>
+
+<div align="center">
+	<img src="https://activity-graph.herokuapp.com/graph?username=Shiresamash&theme=xcode" />
 </div>
 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shiresamash&theme=dark&layout=compact)
