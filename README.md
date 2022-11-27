@@ -9,6 +9,11 @@
 	<img src="https://activity-graph.herokuapp.com/graph?username=Shiresamash&theme=xcode" />
 </div>
 
+<div align="center">
+	<img  src="https://github-readme-streak-stats.herokuapp.com/?user=Shiresamash" />
+</div>
+
+
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shiresamash&theme=dark&layout=compact)
 
 
