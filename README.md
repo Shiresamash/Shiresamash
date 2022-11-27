@@ -14,6 +14,10 @@
 </div>
 
 
+<div align="center">
+	<img src="https://stats.justsong.cn/api/csdn?id=weixin_50915462">
+</div>
+
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shiresamash&theme=dark&layout=compact)
 
 
