@@ -1,4 +1,9 @@
-### Hi there 👋
+<!-- title for my profile to welcome -->
+<h1 align="center">
+	<a href="https://sunguoqi.com/">
+		<img src="https://readme-typing-svg.herokuapp.com/?lines=prinf(%22welcome%2C%20to visit!%22);欢迎来到我的GITHUB!&center=true&size=27">
+	</a>
+</h1>
 
 
 <div align="center">
@@ -14,11 +19,7 @@
 </div>
 
 
-<h1 align="center">
-	<a href="https://sunguoqi.com/">
-		<img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Hello%2C%20World!%22);小明同学祝您今天愉快!&center=true&size=27">
-	</a>
-</h1>
+
 
 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shiresamash&theme=dark&layout=compact)
