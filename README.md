@@ -18,24 +18,30 @@
 - 💌 shiresamash@foxmail.com 
 - 🐧 541300709
 
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=Shiresamash&show_icons=true&theme=vue-dark&count_private=true"/>
 
+<img src="https://komarev.com/ghpvc/?username=Shiresamash&color=009688&style=for-the-badge" alt="archlinux" width="165" height="26"/>
 
-🙈🙉🙊💥💫💦💨🐵🐒🦍🦧🐶🐕🦮🐕‍🦺🐩🐺🦊🦝🐱🐈🐈‍⬛🦁🐯🐅🐆🐴🐎🦄🦓🦌🦬🐮🐂🐃🐄🐷🐖🐗🐽🐏🐑🐐🐪🐫🦙🦒🐘🦏🦛🐭🐁🐀🐹🐰🐇🐿️🦫🦔🦇🐻🐻‍❄️🐨🐼🦥🦦🦨🦘🦡🐾🦃🐔🐓🐣🐤🐥🐦🐧🕊️🦅🦆🦢🦉🦩🦚🦜🐸🐊🐢🦎🐍🐲🐉🦕🦖🐳🐋🐬🦭🐟🐠🐡🦈🐙🐚🐌🦋🐛🐜🐝🪲🐞🦗🪳🕷️🕸️🦂🦟🦠🦀🦞🦐🦑
+🙈🙉🙊💥💫💦💨🐵🐒🦍🦧🐶🐕🦮🐕‍🦺🐩🐺🦊🦝🐱🐈🐈‍⬛🦁🐯🐅🐆🐴🐎🦄🦓🦌🦬🐮🐂🐃🐄🐷🐖🐗🐽🐏🐑🐐🐪🐫🦙🦒🐘🦏🦛🐭🐁🐀🐹🐰🐇🐿️🦫🦔🦇🐻🐻‍❄️🐨🐼🦥🦦🦨🦘🦡🐾🦃🐔🐓🐣🐤🐥🐦🐧🕊️🦅🦆🦢🦉🦩🦚🦜🐸🐊🐢🦎🐍🐲🐉🦕🦖🐳🐋🐬🦭🐟🐠🐡🦈🐙🐚🐌🦋🐛🐜🐝🪲🐞🦗🪳🕷️🕸️🦂🦟🦠🦀
 
-<!-- 
+<!-- 30天提交统计数据(暂不显示) -->
+<!--
 <div align="center">
 	<img src="https://activity-graph.herokuapp.com/graph?username=Shiresamash&theme=xcode" />
 </div>
+-->
+
+
+
+
+
+
+
+<!-- 
 
 <div align="center">
 	<img  src="https://github-readme-streak-stats.herokuapp.com/?user=Shiresamash" />
 </div>
-
-
-
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=Shiresamash&show_icons=true&theme=vue-dark&count_private=true"/>
-
-<img src="https://komarev.com/ghpvc/?username=Shiresamash&color=009688&style=for-the-badge" alt="archlinux" width="170" height="36"/>
 
 -->
 
