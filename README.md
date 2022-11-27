@@ -5,10 +5,14 @@
 	</a>
 </h1>
 
+
+<!-- 访客统计 -->
 <div align="left">
 	<img  src="https://visitor-badge.glitch.me/badge?page_id=Shiresamash" />
 </div>
 
+
+<!-- 语言使用百分比 -->
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shiresamash&hide=c&show_icons=true&theme=vue-dark"/>
 
 ### Hi Samash here 👋!
@@ -18,6 +22,7 @@
 - 💌 shiresamash@foxmail.com 
 - 🐧 541300709
 
+<!-- stars -->
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=Shiresamash&show_icons=true&theme=vue-dark&count_private=true"/>
 
 
