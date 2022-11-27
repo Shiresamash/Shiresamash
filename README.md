@@ -5,10 +5,10 @@
 	</a>
 </h1>
 
-
-<div align="center">
+<div align="left">
 	<img  src="https://visitor-badge.glitch.me/badge?page_id=Shiresamash" />
 </div>
+
 
 <div align="center">
 	<img src="https://activity-graph.herokuapp.com/graph?username=Shiresamash&theme=xcode" />
