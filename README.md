@@ -9,18 +9,18 @@
 	<img  src="https://visitor-badge.glitch.me/badge?page_id=Shiresamash" />
 </div>
 
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shiresamash&hide=c&show_icons=true&theme=vue-dark"/>
+
 ### Hi Samash here 👋!
 - 🔭 I’m currently working in Shenzhen China
 - 🌱 I come here to explore a different world of programmers
 - 😄 I hope to improve my programming skills and make some friends here
 - 💌 shiresamash@foxmail.com 
 - 🐧 541300709
-- 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shiresamash&theme=dark&layout=compact)
 
 
 
-
+🙈🙉🙊💥💫💦💨🐵🐒🦍🦧🐶🐕🦮🐕‍🦺🐩🐺🦊🦝🐱🐈🐈‍⬛🦁🐯🐅🐆🐴🐎🦄🦓🦌🦬🐮🐂🐃🐄🐷🐖🐗🐽🐏🐑🐐🐪🐫🦙🦒🐘🦏🦛🐭🐁🐀🐹🐰🐇🐿️🦫🦔🦇🐻🐻‍❄️🐨🐼🦥🦦🦨🦘🦡🐾🦃🐔🐓🐣🐤🐥🐦🐧🕊️🦅🦆🦢🦉🦩🦚🦜🐸🐊🐢🦎🐍🐲🐉🦕🦖🐳🐋🐬🦭🐟🐠🐡🦈🐙🐚🐌🦋🐛🐜🐝🪲🐞🦗🪳🕷️🕸️🦂🦟🦠🦀🦞🦐🦑
 
 <!-- 
 <div align="center">
@@ -32,10 +32,6 @@
 </div>
 
 
-
-
-
-🙈🙉🙊💥💫💦💨🐵🐒🦍🦧🐶🐕🦮🐕‍🦺🐩🐺🦊🦝🐱🐈🐈‍⬛🦁🐯🐅🐆🐴🐎🦄🦓🦌🦬🐮🐂🐃🐄🐷🐖🐗🐽🐏🐑🐐🐪🐫🦙🦒🐘🦏🦛🐭🐁🐀🐹🐰🐇🐿️🦫🦔🦇🐻🐻‍❄️🐨🐼🦥🦦🦨🦘🦡🐾🦃🐔🐓🐣🐤🐥🐦🐧🕊️🦅🦆🦢🦉🦩🦚🦜🐸🐊🐢🦎🐍🐲🐉🦕🦖🐳🐋🐬🦭🐟🐠🐡🦈🐙🐚🐌🦋🐛🐜🐝🪲🐞🦗🪳🕷️🕸️🦂🦟🦠🦀🦞🦐🦑
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=Shiresamash&show_icons=true&theme=vue-dark&count_private=true"/>
 
