@@ -9,7 +9,7 @@
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=Shiresamash&show_icons=true&theme=vue-dark&count_private=true"/>
 
-
+<img src="https://komarev.com/ghpvc/?username=Shiresamash&color=009688&style=for-the-badge" alt="archlinux" width="170" height="36"/>
 
 
 
