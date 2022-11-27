@@ -9,6 +9,8 @@
 	<img  src="https://visitor-badge.glitch.me/badge?page_id=Shiresamash" />
 </div>
 
+- 💌shiresamash@foxmail.com  🐧541300709  
+
 
 <div align="center">
 	<img src="https://activity-graph.herokuapp.com/graph?username=Shiresamash&theme=xcode" />
@@ -56,8 +58,6 @@
    </a>
 </p>
 <br>
-
-[![Shiresamash's github activity graph](https://activity-graph.herokuapp.com/graph?username=Shiresamash&theme=github)](https://github.com/YuzukiTsuru)
 
 <!--
 **Shiresamash/Shiresamash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
