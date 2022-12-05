@@ -13,7 +13,8 @@
 
 
 <!-- 语言使用百分比 -->
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shiresamash&hide=c&show_icons=true&theme=vue-dark"/>
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shiresamash&layout=compact&show_icons=true&bg_color=30,e96403,904095&title_color=fff&text_color=fff"/>
+
 
 ### Hi Samash here 👋!
 - 🔭 I’m currently working in Shenzhen China
@@ -24,7 +25,7 @@
 - 🐧 541300709
 
 <!-- stars -->
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=Shiresamash&show_icons=true&theme=vue-dark&count_private=true"/>
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=Shiresamash&show_icons=true&count_private=true&&theme=transparent&bg_color=30,e90443,204e95&title_color=fff&text_color=fff"/>
 
 
 🙈🙉🙊💥💫💦💨🐵🐒🦍🦧🐶🐕🦮🐕‍🦺🐩🐺🦊🦝🐱🐈🐈‍⬛🦁🐯🐅🐆🐴🐎🦄🦓🦌🦬🐮🐂🐃🐄🐷🐖🐗🐽🐏🐑🐐🐪🐫🦙🦒🐘🦏🦛🐭🐁🐀🐹🐰🐇🐿️🦫🦔🦇🐻🐻‍❄️🐨🐼🦥🦦🦨🦘🦡🐾🦃🐔🐓🐣🐤🐥🐦🐧🕊️🦅🦆🦢🦉🦩🦚🦜🐸🐊🐢🦎🐍🐲🐉🦕🦖🐳🐋🐬🦭🐟🐠🐡🦈🐙🐚🐌🦋🐛🐜🐝🪲🐞🦗🪳🕷️🕸️🦂🦟🦠🦀
