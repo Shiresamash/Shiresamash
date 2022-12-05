@@ -13,7 +13,7 @@
 
 
 <!-- 语言使用百分比 -->
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shiresamash&layout=compact&show_icons=true&bg_color=30,e96403,904095&title_color=fff&text_color=fff"/>
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shiresamash&layout=compact&count_private=true&show_icons=true&bg_color=30,e96403,904095&title_color=fff&text_color=fff"/>
 
 
 ### Hi Samash here 👋!
