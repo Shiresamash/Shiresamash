@@ -25,7 +25,7 @@
 - 🐧 541300709
 
 <!-- stars -->
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=Shiresamash&show_icons=true&count_private=true&&theme=transparent&bg_color=30,e90443,204e95&title_color=fff&text_color=fff"/>
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=Shiresamash&show_icons=true&count_private=true&hide=contribs,issues&theme=transparent&bg_color=30,e90443,204e95&title_color=fff&text_color=fff"/>
 
 
 🙈🙉🙊💥💫💦💨🐵🐒🦍🦧🐶🐕🦮🐕‍🦺🐩🐺🦊🦝🐱🐈🐈‍⬛🦁🐯🐅🐆🐴🐎🦄🦓🦌🦬🐮🐂🐃🐄🐷🐖🐗🐽🐏🐑🐐🐪🐫🦙🦒🐘🦏🦛🐭🐁🐀🐹🐰🐇🐿️🦫🦔🦇🐻🐻‍❄️🐨🐼🦥🦦🦨🦘🦡🐾🦃🐔🐓🐣🐤🐥🐦🐧🕊️🦅🦆🦢🦉🦩🦚🦜🐸🐊🐢🦎🐍🐲🐉🦕🦖🐳🐋🐬🦭🐟🐠🐡🦈🐙🐚🐌🦋🐛🐜🐝🪲🐞🦗🪳🕷️🕸️🦂🦟🦠🦀
