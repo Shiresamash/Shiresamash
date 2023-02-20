@@ -19,7 +19,7 @@
 ### Hi Samash here 👋!
 - 🔭 I’m currently working in Shenzhen China
 - 🌱 I come here to explore a different world of programmers
-- 😄 I hope to improve my programming skills
+- 😄 Be free to ask me about anything here.
 - 💌 shiresamash@foxmail.com 
 - 🐶 https://gitee.com/shiresamash
 - 🐧 541300709
