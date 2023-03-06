@@ -18,7 +18,7 @@
 
 ### Hi Samash here 👋!
 - 🔭 I’m currently working in Shenzhen China
-- 🌱 I come here to explore a different world of programmers
+- 🌱 Where there is a will, there is a way
 - 😄 Be free to ask me about anything here.
 - 💌 shiresamash@foxmail.com 
 - 🐶 https://gitee.com/shiresamash
