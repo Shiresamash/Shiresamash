@@ -20,9 +20,6 @@
 - 🔭 I’m currently working in Shenzhen China
 - 🌱 Where there is a will, there is a way
 - 😄 Be free to ask me about anything here.
-- 💌 shiresamash@foxmail.com 
-- 🐶 https://gitee.com/shiresamash
-- 🐧 541300709
 
 <!-- stars -->
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=Shiresamash&show_icons=true&count_private=true&hide=contribs,issues&theme=transparent&bg_color=30,e90443,204e95&title_color=fff&text_color=fff"/>
